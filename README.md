@@ -6,6 +6,7 @@ SecureVault is a simple password management console application written in C# th
 
 - **Password Management**: Store, update, retrieve, and delete passwords for different websites and applications.
 - **Encryption**: Passwords are encrypted using a custom encryption algorithm to ensure security.
+   [Note: the encryption in this code is not one of encryption algorithms but it just trick to make passwords in save]
 - **Master Password**: Secure access to the application using a master password.
 - **File Storage**: Passwords are stored locally in a text file for easy access.
 
